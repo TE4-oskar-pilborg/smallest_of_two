@@ -4,7 +4,7 @@
     "language": "javascript",
     "functionName": "smallestOfTwo",
     "functionParameters": ["num1", "num2"],
-    "functionSpan": [2, 3],
+    "functionSpan": [2, 2],
     "tests": [
         {"description": "First is smallest", 
          "arguments": [1,2], 
